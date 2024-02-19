@@ -1,9 +1,14 @@
+/**
+ * @author Ahmet Batuhan Yürüdür
+ * @since 2024
+ */
+
+
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
         // Chinese zodiac finder;
-
         // Arranging input;
         int birthYear, sign;
         Scanner input = new Scanner(System.in);
